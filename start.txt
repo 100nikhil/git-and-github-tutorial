@@ -1,1 +1,2 @@
 "This new text file is created via echo commnd of cmd" 
+This line is added as another commit after returning back from detached head
